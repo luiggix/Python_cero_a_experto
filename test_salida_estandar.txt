@@ -1,0 +1,1 @@
+Esta línea va hacia el archivo test_salida_estandar.txt
