@@ -1,0 +1,33 @@
+Rank 	Team 	GP 	Won 	Lost 	Tied 	Pct. 	First NFL season 	Division
+1 	Green Bay Packers 	1,384 	769 	577 	38 	.569 	1921 	NFC North
+2 	Dallas Cowboys 	930 	526 	398 	6 	.569 	1960 	NFC East
+3 	Baltimore Ravens 	400 	225 	174 	1 	.564 	1996 	AFC North
+4 	Chicago Bears 	1,418 	777 	599 	42 	.563 	1920 	NFC North
+5 	New England Patriots 	932 	519 	404 	9 	.562 	1960 	AFC East
+6 	Miami Dolphins 	848 	467 	377 	4 	.553 	1966 	AFC East
+7 	Minnesota Vikings 	918 	495 	412 	11 	.545 	1961 	NFC North
+8 	Kansas City Chiefs 	932 	495 	425 	12 	.538 	1960 	AFC West
+9 	Pittsburgh Steelers 	1,220 	643 	556 	21 	.536 	1933 	AFC North
+10 	San Francisco 49ers 	1,050 	551 	485 	14 	.531 	1950 	NFC West
+11 	New York Giants 	1,353 	702 	618 	33 	.531 	1925 	NFC East
+12 	Indianapolis Colts[d] 	1,014 	534 	473 	7 	.530 	1953 	AFC South
+13 	Denver Broncos 	932 	488 	434 	10 	.529 	1960 	AFC West
+14 	Las Vegas Raiders 	932 	481 	440 	11 	.522 	1960 	AFC West
+15 	Seattle Seahawks 	708 	367 	340 	1 	.519 	1976 	NFC West
+16 	Los Angeles Rams 	1,183 	587 	575 	21 	.505 	1937 	NFC West
+17 	Washington Football Team 	1,250 	610 	612 	28 	.499 	1932 	NFC East
+18 	Los Angeles Chargers 	932 	459 	462 	11 	.498 	1960 	AFC West
+19 	Cleveland Browns[e] 	1,002 	486 	505 	11 	.491 	1950 	AFC North
+20 	Philadelphia Eagles 	1,236 	590 	619 	27 	.488 	1933 	NFC East
+21 	Tennessee Titans 	932 	451 	475 	6 	.487 	1960 	AFC South
+22 	Carolina Panthers 	416 	200 	215 	1 	.482 	1995 	NFC South
+23 	Buffalo Bills 	932 	438 	486 	8 	.474 	1960 	AFC East
+24 	New Orleans Saints 	834 	387 	442 	5 	.467 	1967 	NFC South
+25 	Detroit Lions 	1,281 	567 	681 	33 	.456 	1930 	NFC North
+26 	Cincinnati Bengals 	820 	363 	452 	5 	.446 	1968 	AFC North
+27 	New York Jets 	932 	410 	514 	8 	.444 	1960 	AFC East
+28 	Houston Texans 	304 	135 	169 	0 	.444 	2002 	AFC South
+29 	Atlanta Falcons 	848 	369 	473 	6 	.439 	1966 	NFC South
+30 	Arizona Cardinals 	1,378 	566 	771 	41 	.426 	1920 	NFC West
+31 	Jacksonville Jaguars 	416 	177 	239 	0 	.425 	1995 	AFC South
+32 	Tampa Bay Buccaneers 	708 	278 	429 	1 	.393 	1976 	NFC South
