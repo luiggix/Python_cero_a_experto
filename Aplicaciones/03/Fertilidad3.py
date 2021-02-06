@@ -140,9 +140,9 @@ anim = FuncAnimation(fig,     # La figura donde se hace la animación
 
 # Lo siguiente es para guardar la animación en un archivo en formato MP4.
 
-#Writer = writers['ffmpeg']
-#writer = Writer(fps=3, metadata=dict(artist='Me'), bitrate=1800)
-#anim.save('fert.mp4', writer=writer)
+Writer = writers['ffmpeg']
+writer = Writer(fps=3, metadata=dict(artist='Me'), bitrate=1800)
+anim.save('fert.mp4', writer=writer)
 
 # También es posible guardar el video en un GIF como sigue
 
